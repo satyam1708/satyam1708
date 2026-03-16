@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Satyam Pandey 👋
 
-<!--
-**satyam1708/satyam1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Engineer | AI Systems Developer
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js / Next.js
+- Node.js / Express
+- PostgreSQL / Prisma
+- OpenAI / Voice AI
+- AWS / Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- MitrLok – Social network with real-time chat
+- AI Voice Agent – OpenAI + WhatsApp automation
+- PropBots – AI real estate assistant
+
+## Links
+Portfolio: https://satyam-pandey.vercel.app  
+LinkedIn: https://linkedin.com/in/satyam-pandey-se  
+Email: pandeysatyam1708@gmail.com
